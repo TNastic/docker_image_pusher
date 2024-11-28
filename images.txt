@@ -3,3 +3,4 @@ rabbitmq:4.0.1-management
 mysql:8.0.39
 redis:7.4.1
 openjdk:17-jdk-alpine
+elasticsearch:7.12.1
