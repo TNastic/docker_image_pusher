@@ -6,3 +6,4 @@ openjdk:17-jdk-alpine
 elasticsearch:7.12.1
 kibana:7.12.1
 openjdk:8-jre-alpine
+nacos:2.2.0
